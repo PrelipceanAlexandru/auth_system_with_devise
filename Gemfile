@@ -71,3 +71,6 @@ gem 'mysql2'
 
 # Use grape as api 
 gem 'grape'
+
+# Use devise for authentication
+gem 'devise'
