@@ -61,4 +61,8 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
+# Use mysql2 as the database for Active Record
 gem 'mysql2'
+
+# Use grape as api 
+gem 'grape'
