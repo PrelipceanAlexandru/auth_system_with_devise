@@ -71,6 +71,8 @@ gem 'mysql2'
 
 # Use grape as api 
 gem 'grape'
+gem 'grape-swagger'
+gem 'grape-swagger-rails'
 
 # Use devise for authentication
 gem 'devise'
